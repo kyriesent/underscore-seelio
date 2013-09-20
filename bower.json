@@ -1,0 +1,10 @@
+{
+  "name": "underscore-seelio",
+  "repo": "kyriesent/underscore-seelio",
+  "description": "JavaScript's utility _ belt",
+  "homepage": "https://github.com/kyriesent/underscore-seelio",
+  "main": ["underscore-min.js", "underscore.js", "underscore-min.map"],
+  "version": "1.5.1+seelio",
+  "dependencies": {},
+  "license": "MIT"
+}
